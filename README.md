@@ -8,8 +8,6 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 - 💬 Ask me about my undergraduate research, personal projects, or if you just want someone to chat with!
 
 
-## Skills
-
 <details open>
   <summary> Technologies </summary>
   <br></br>
