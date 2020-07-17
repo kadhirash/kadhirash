@@ -12,7 +12,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 <details close>
   <summary> Technologies </summary>
   <br>
-  <p> Python 🐍 </p> <p> C/C++ </p> <p> Java </p><p> JavaScript </p>  <p> HTML/CSS </p> <p> MATLAB</p>
+  <p> <img alt = "Python" src = "https://user-images.githubusercontent.com/10100659/87767851-240a4800-c7d0-11ea-932b-e132259432c6.jpg" </p> <p> <img alt = "C++" src = "https://user-images.githubusercontent.com/10100659/87767581-b6f6b280-c7cf-11ea-807c-e6385c044580.jpg"></p> <p> <img alt = "Java" src = "https://user-images.githubusercontent.com/10100659/87768147-90854700-c7d0-11ea-929e-18c1d53bd58d.png"</p><p> <img alt = "JS" src = "https://user-images.githubusercontent.com/10100659/87768841-9b8ca700-c7d1-11ea-953d-2c92b3913e36.png" </p> <p> <img alt = "MATLAB" src = "https://user-images.githubusercontent.com/10100659/87768676-5ff1dd00-c7d1-11ea-8452-70972cd12ce4.png"</p>
  </details>
 
 
