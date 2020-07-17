@@ -17,6 +17,8 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
   <p> Java </p>
   <p> JavaScript </p>
  </details
+  
+<det 
 <!--
 **kadhirash/kadhirash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
