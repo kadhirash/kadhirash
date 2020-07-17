@@ -4,7 +4,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 
 ## Blurb about me
 - 🔭 I’m currently working on doing [leetcode](https://github.com/kadhirash/leetcode) problems to better myself for the upcoming technical interviews. 
-- 🌱 I’m currently learning Deno and React and plan to build applications with it.
+- 🌱 I’m currently learning Deno and React and plan to build applications with it, stay tuned!
 - 💬 Ask me about my undergraduate research, personal projects, or if you just want someone to chat with!
 
 
@@ -15,6 +15,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
   <br></br>
   <p> Python 🐍 </p> <p> C/C++ </p> <p> Java </p><p> JavaScript </p>  <p> HTML/CSS </p> <p> MATLAB</p>
  </details
+<br></br>
 
 ## Contact
 - 📫 How to reach me: kadhirash@gmail.com or at [linkedIn](https://www.linkedin.com/in/kadhirash/)
