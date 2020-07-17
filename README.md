@@ -8,15 +8,16 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 - 💬 Ask me about my undergraduate research, personal projects, or if you just want someone to chat with!
 
 
-## Contact
-- 📫 How to reach me: kadhirash@gmail.com or at [linkedIn](https://www.linkedin.com/in/kadhirash/)
+## Skills
 
 <details open>
   <summary> Technologies </summary>
-  
-  <p> Python </p> <p> C++ </p> <p> Java </p><p> JavaScript </p>
+  <br></br>
+  <p> Python 🐍 </p> <p> C/C++ </p> <p> Java </p><p> JavaScript </p>  <p> HTML/CSS </p> <p> MATLAB</p>
  </details
-  
+
+## Contact
+- 📫 How to reach me: kadhirash@gmail.com or at [linkedIn](https://www.linkedin.com/in/kadhirash/)
 
 
 <!--
