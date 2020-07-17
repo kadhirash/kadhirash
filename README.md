@@ -8,7 +8,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 - 💬 Ask me about my undergraduate research, personal projects, or if you just want someone to chat with!
 - ⚡ Favorite Quote: 
   > "We have two lives, and the second begins when we realize we only have one" - Confucius
-## 
+# 
 <details close>
   <summary> Technologies </summary>
   <br>
@@ -18,7 +18,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 
 ## Contact
 
-- 📫 How to reach me: kadhirash@gmail.com or at [linkedIn](https://www.linkedin.com/in/kadhirash/)
+- 📫  How to reach me: kadhirash@gmail.com or at [linkedIn](https://www.linkedin.com/in/kadhirash/)
 
 
 <!--
