@@ -11,7 +11,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 ## 
 <details open>
   <summary> Technologies </summary>
-  <br></br>
+  <br>
   <p> Python 🐍 </p> <p> C/C++ </p> <p> Java </p><p> JavaScript </p>  <p> HTML/CSS </p> <p> MATLAB</p>
  </details
 
