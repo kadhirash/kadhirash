@@ -1,4 +1,4 @@
-### Hello World! 👋
+# Hello World! 👋
 My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. I love working on projects and applications where I can see it have a real-world change in society.
 
 
@@ -9,11 +9,11 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 - ⚡ Favorite Quote: 
   > "We have two lives, and the second begins when we realize we only have one" - Confucius
 ## 
-<details open>
+<details close>
   <summary> Technologies </summary>
   <br>
   <p> Python 🐍 </p> <p> C/C++ </p> <p> Java </p><p> JavaScript </p>  <p> HTML/CSS </p> <p> MATLAB</p>
- </details
+ </details>
 
 
 ## Contact
