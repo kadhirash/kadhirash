@@ -13,12 +13,12 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 
 <details open>
   <summary> Technologies </summary>
-  <p> Python </p> <p> C++ </p>
-  <p> Java </p>
-  <p> JavaScript </p>
+  
+  <p> Python </p> <p> C++ </p> <p> Java </p><p> JavaScript </p>
  </details
   
-<det 
+
+
 <!--
 **kadhirash/kadhirash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
