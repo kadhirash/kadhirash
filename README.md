@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World! 👋🏽
 My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. I love working on projects and applications where I can see it have a real-world change in society.
 
 
