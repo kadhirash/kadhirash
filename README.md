@@ -4,7 +4,7 @@ My name is Kadhirash Sivakumar and I am a recent CS graduate from UC Riverside. 
 
 ## Blurb about me
 - 🔭 I’m currently working on doing [leetcode](https://github.com/kadhirash/leetcode) problems to better myself for the upcoming technical interviews. 
-- 🌱 I’m currently learning Deno and React and plan to build applications with it, stay tuned!
+- 🌱 I’m currently learning more about cloud computing, in particular AWS, as well as more frameworks and libraries in JavaScript such as React.js, Angular.js, etc. I plan to build applications with what I learn, stay tuned!
 - 💬 Ask me about my undergraduate research, personal projects, or if you just want someone to chat with!
 - ⚡ Favorite Quote: 
   > "We have two lives, and the second begins when we realize we only have one" - Confucius
