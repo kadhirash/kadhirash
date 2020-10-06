@@ -1,5 +1,5 @@
 # Hello World! 👋🏽
-My name is Kadhirash Sivakumar and I am a recent Computer Science graduate from University of California, Riverside. I love working on projects and applications where I can see it have a positive impact in people. Currently I am a Software Engineer Intern at Trelliss, a startup company focused on bettering one's mental health.
+My name is Kadhirash Sivakumar and I am a recent Computer Science graduate from University of California, Riverside and am pursuing a network programming degree from De Anza. I love working on projects and applications where I can see it have a positive impact in people. I am a former Software Engineer Intern at Trelliss, a startup company focused on bettering one's mental health.
 
 
 ## Blurb about me
