@@ -1,7 +1,7 @@
 # Hello World! 👋🏽
 My name is Kadhirash Sivakumar and I am a recent Computer Science graduate from University of California, Riverside and am pursuing a network programming degree from De Anza. I love working on projects and applications where I can see it have a positive impact in people. I am a former Software Engineer Intern at Trelliss, a startup company focused on bettering one's mental health.
 
-[![Kadhirash's github stats](https://github-readme-stats.vercel.app/api?username=kadhirash&hide=issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Kadhirash's github stats](https://github-readme-stats.vercel.app/api?username=kadhirash&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Blurb about me
 - 🔭 I’m currently working on doing [leetcode](https://github.com/kadhirash/leetcode) problems to better myself for the upcoming technical interviews. <br> </br>
